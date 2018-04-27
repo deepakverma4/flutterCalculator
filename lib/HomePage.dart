@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
          mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             new Text("Output : $sum", style: new TextStyle(
-              color: Colors.black,
+              color: Colors.white,
               fontSize: 22.0,
               fontWeight: FontWeight.bold
             ),),
